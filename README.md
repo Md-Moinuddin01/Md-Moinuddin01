@@ -1,13 +1,11 @@
 <h1 align="center">Hey 👋What's Up?</h1>
 
 <h1 align="center">Hi 👋, I'm Md Moinuddin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-moinuddin01&label=Profile%20views&color=0e75b6&style=flat" alt="md-moinuddin01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-moinuddin01" alt="md-moinuddin01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/md_moinudd97689" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/md_moinudd97689?logo=twitter&style=for-the-badge" alt="https://x.com/md_moinudd97689" /></a> </p>
 
 - 🌱 I’m currently learning **AIML , blockchain, Openshift ,**
 
@@ -60,7 +58,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=md-moinuddin01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=md-moinuddin01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=md-moinuddin01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" />
 </div>
 
 ###
