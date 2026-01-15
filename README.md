@@ -4,10 +4,12 @@
 <h3 align="center">A passionate tech enthusiast , mentor, and community contributer with interests in web3, Open source, Cloud Technology, and Ai-droven Solution. I enjoy building, learning, and guiding other in their tech journey.</h3>
 
 <div align="Right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-moinuddin01" alt="md-moinuddin01" /></a> </p>
+With hands-on experience in web development, open-source initiatives, and tech community engagement, I believes in continuous learning and collaboration. I particularly interested in areas like decentralized applications, cloud technologies, and problem solving through data structures and algorithms.
+
+Driven by curiosity and a growth mindset, Where as my consistently works toward improving his technical skills while contributing to meaningful projects and initiatives. mine goal is to grow as a responsible technologist and create solutions that empower people and communities through technology.
 
 - 🌱 I’m currently learning **AIML , blockchain, Openshift ,**
 
@@ -81,9 +83,5 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-moinuddin01/md-moinuddin01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-moinuddin01/md-moinuddin01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/md-moinuddin01/md-moinuddin01/output/pacman-contribution-graph.svg">
-</picture>
+
 
