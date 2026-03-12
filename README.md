@@ -3,9 +3,6 @@
 <h1 align="center"> 👋, I'm Md Moinuddin</h1>
 <h3 align="center">A passionate tech enthusiast , mentor, and community contributer with interests in web3, Open source, Cloud Technology, and Ai-droven Solution. I enjoy building, learning, and guiding other in their tech journey.</h3>
 
-<div align="Right">
-  <img height="100" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 With hands-on experience in web development, open-source initiatives, and tech community engagement, I believes in continuous learning and collaboration. I particularly interested in areas like decentralized applications, cloud technologies, and problem solving through data structures and algorithms.
 
