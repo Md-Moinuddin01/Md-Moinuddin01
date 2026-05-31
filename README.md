@@ -84,5 +84,19 @@ Driven by curiosity and a growth mindset, Where as my consistently works toward 
 
 **📢 Let's connect**
 
+<p align="center">
+</p>
+</div>
+<h4 align="center">
+
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
+
+<div align="center">
+  <a href="#">
+  <img alt="Thanks for visiting!" 
+       src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&duration=2500&color=00FFAA&center=true&vCenter=true&width=400&lines=Visit+again+to+Moinu+git+profile;Thanks+for+visiting!;Have+a+great+day,+Coder!;">
+    </a>
+</div>
+
 
 
