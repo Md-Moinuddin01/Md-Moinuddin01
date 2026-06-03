@@ -82,7 +82,7 @@ Driven by curiosity and a growth mindset, Where as my consistently works toward 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Md-Moinuddin01&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-**📢 Let's connect**
+**📢 Let's connect together**
 
 <p align="center">
 </p>
