@@ -1,10 +1,10 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-<h1 align="center">Hey 👋hey I'm Md Moinuddin</h1>
+<h1 align="center">Hey👋 I'm Md Moinuddin</h1>
 
 <h3 align="center">A passionate tech enthusiast , mentor, and community contributer with interests in web3, Open source, Cloud Technology, and Ai-droven Solution. I enjoy building, learning, and guiding other in their tech journey.</h3>
 
 
-With hands-on experience in web development, open-source initiatives, and tech community engagement, I believes in continuous learning and collaboration. I particularly interested in areas like decentralized applications, cloud technologies, and problem solving through data structures and algorithms.
+With hands on experience in web development, open-source initiatives, and tech community engagement, I believes in continuous learning and collaboration. I particularly interested in areas like decentralized applications, cloud technologies, and problem solving through data structures and algorithms.
 
 Driven by curiosity and a growth mindset, Where as my consistently works toward improving his technical skills while contributing to meaningful projects and initiatives. mine goal is to grow as a responsible technologist and create solutions that empower people and communities through technology.
 
