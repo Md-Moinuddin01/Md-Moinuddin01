@@ -73,7 +73,7 @@ Driven by curiosity and a growth mindset, Where as my consistently works toward 
 
 ###
 
-<<div align="left">
+<div align="left">
   <a href="https://www.youtube.com/channel/UCd24bkKWPn8jf7STpb8ZU7g" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
