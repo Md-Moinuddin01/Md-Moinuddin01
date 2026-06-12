@@ -71,11 +71,15 @@ Driven by curiosity and a growth mindset, Where as my consistently works toward 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
 </div>
 
----
+[![Last Commit](https://img.shields.io/github/last-commit/Md-Moinuddin01/SNE-notes?style=for-the-badge)](https://github.com/Md-Moinuddin01/SNE-notes/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/Md-Moinuddin01/SNE-notes?style=for-the-badge)](https://github.com/Md-Moinuddin01/SNE-notes)
+[![Stars](https://img.shields.io/github/stars/Md-Moinuddin01/SNE-notes?style=for-the-badge)](https://github.com/Md-Moinuddin01/SNE-notes/stargazers)
+[![Issues](https://img.shields.io/github/issues/Md-Moinuddin01/SNE-notes?style=for-the-badge)](https://github.com/Md-Moinuddin01/SNE-notes/issues)
+
 
 ###
 
-<div align="left">
+<div align="cemter">
   <a href="https://www.youtube.com/channel/UCd24bkKWPn8jf7STpb8ZU7g" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -127,5 +131,6 @@ Driven by curiosity and a growth mindset, Where as my consistently works toward 
     </a>
 </div>
 
+---
 
 
