@@ -71,6 +71,8 @@ Driven by curiosity and a growth mindset, Where as my consistently works toward 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
 </div>
 
+---
+
 ###
 
 <div align="left">
