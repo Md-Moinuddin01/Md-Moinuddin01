@@ -82,94 +82,18 @@ moinuddin@github:~$ focus --active
 ## `~/projects`
 
 ```bash
-moin@github:~$ ls -la projects/
+moinuddin@github:~$ ls -la projects/
 
 drwxr-xr-x  GitHub-Contribution-Simulator
 drwxr-xr-x  SignSpeak_AI
 drwxr-xr-x  AI-Research-Paper-Explainer
 ```
 
-### `01. GitHub-Contribution-Simulator`
-
-```bash
-moin@github:~/projects$ inspect GitHub-Contribution-Simulator
-
-TYPE        Full-stack developer education platform
-PROBLEM     Beginners hesitate to contribute to real repositories
-SOLUTION    Practise the complete workflow inside a safe simulation
-```
-
-```text
-GitHub-Contribution-Simulator
-├── Simulated repositories
-├── Issue assignment
-├── Monaco code editor
-├── Git command simulation
-├── Pull-request workflow
-├── AI maintainer review
-├── Merge-conflict practice
-├── XP and badges
-├── Contribution heatmaps
-└── Admin analytics
-```
-
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/GitHub-Contribution-Simulator)
 
----
-
-### `02. SignSpeak_AI`
-
-```bash
-moin@github:~/projects$ inspect SignSpeak_AI
-
-TYPE        AI accessibility application
-PROBLEM     Communication barriers between signers and non-signers
-SOLUTION    Convert recognised signs into text and spoken output
-```
-
-```text
-SignSpeak AI
-├── Real-time camera access
-├── Hand-sign detection
-├── Sign-to-text conversion
-├── Text-to-speech output
-├── Practice mode
-├── Sign library
-├── Responsive interface
-└── Privacy-first processing
-```
 
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/SignSpeak_AI)
 
----
-
-### `03. AI-Research-Paper-Explainer`
-
-```bash
-moin@github:~/projects$ inspect AI-Research-Paper-Explainer
-
-TYPE        Local-first research understanding tool
-INPUT       PDF, TXT, Markdown, or pasted research text
-OUTPUT      Summary, concepts, visual flow, and roadmap
-```
-
-```text
-Processing Pipeline
-├── Paper input
-├── Section detection
-├── High-signal sentence ranking
-├── Technical concept extraction
-├── Visual logic mapping
-├── Implementation roadmap
-└── Standalone HTML export
-```
-
-```bash
-moin@github:~$ privacy-check AI-Research-Paper-Explainer
-
-[PASS] Research papers are not sent to a cloud service.
-[PASS] Analysis runs locally after text extraction.
-```
 
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/AI-Research-Paper-Explainer)
 
