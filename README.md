@@ -167,17 +167,6 @@ md-moinuddin01@github:~$ collaboration --accepted
 [YES] Hackathons and workshops
 [YES] Community partnerships
 [YES] Early-stage product experiments
-
-```bash
-md-moinuddin01@github:~$ long-term-goal
-
-Become a technology leader capable of combining:
-
-product engineering
-+ emerging technology
-+ community execution
-```
-
 ---
 
 ## `~/github-analytics`
