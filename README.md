@@ -14,7 +14,7 @@
 </div>
 
 ```bash
-moinuddin@github:~$ ./initialize-profile.sh
+md-moinuddin01@github:~$ ./initialize-profile.sh
 
 [ OK ] Loading identity...
 [ OK ] Loading technical interests...
@@ -67,7 +67,7 @@ moinuddin@github:~$ status --current
 ```
 
 ```bash
-moinuddin@github:~$ focus --active
+md-moinuddin01@github:~$ focus --active
 
 01. Building practical AI-powered products
 02. Creating accessibility-focused technology
@@ -82,7 +82,7 @@ moinuddin@github:~$ focus --active
 ## `~/projects`
 
 ```bash
-moinuddin@github:~$ ls -la projects/
+md-moinuddin01@github:~$ ls -la projects/
 
 drwxr-xr-x  GitHub-Contribution-Simulator
 drwxr-xr-x  SignSpeak_AI
@@ -105,7 +105,7 @@ drwxr-xr-x  AI-Research-Paper-Explainer
 ## `~/tech-stack`
 
 ```bash
-moin@github:~$ stack --list
+md-moinuddin01@github:~$ stack --list
 ```
 
 ### `languages`
@@ -142,7 +142,7 @@ Git  GitHub  VS Code  Vercel  Docker  Figma
 ## `~/learning-processes`
 
 ```bash
-moin@github:~$ learning --watch
+md-moinuddin01@github:~$ learning --watch
 
 Artificial Intelligence ........ active
 Machine Learning ............... active
@@ -158,7 +158,7 @@ DevOps ......................... active
 
 
 ```bash
-moin@github:~$ collaboration --accepted
+md-moinuddin01@github:~$ collaboration --accepted
 
 [YES] AI products
 [YES] Web3 applications
@@ -169,7 +169,7 @@ moin@github:~$ collaboration --accepted
 [YES] Early-stage product experiments
 
 ```bash
-md-moinuddin@github:~$ long-term-goal
+md-moinuddin01@github:~$ long-term-goal
 
 Become a technology leader capable of combining:
 
@@ -226,7 +226,7 @@ product engineering
 ---
 
 ```bash
-moin@github:~$ echo $PROFILE_MESSAGE
+md-moinuddin01@github:~$ echo $PROFILE_MESSAGE
 
 "Building at the edge of technology, community, and real-world impact."
 ```
@@ -237,6 +237,6 @@ moin@github:~$ echo $PROFILE_MESSAGE
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=moin%40github%3A~%24+Thanks+for+visiting.;moin%40github%3A~%24+Keep+learning.+Keep+building.;moin%40github%3A~%24+exit" alt="Terminal closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=moin%40github%3A~%24+Thanks+for+visiting.;moin%40github%3A~%24+Keep+learning.+Keep+building.;moinuddin%40github%3A~%24+exit" alt="Terminal closing message" />
 
 </div>
