@@ -100,8 +100,6 @@ drwxr-xr-x  AI-Research-Paper-Explainer
 
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/Ajinavaedge.team)
 
----
-
 ## `~/tech-stack`
 
 ```bash
@@ -139,8 +137,6 @@ Prisma  PostgreSQL  Supabase  REST APIs
 Git  GitHub  VS Code  Vercel  Docker  Figma
 ---
 
-## `~/learning-processes`
-
 ```bash
 md-moinuddin01@github:~$ learning --watch
 
@@ -169,50 +165,8 @@ md-moinuddin01@github:~$ collaboration --accepted
 [YES] Early-stage product experiments
 ---
 
-## `~/github-analytics`
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-Moinuddin01&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=C9D1D9&icon_color=00FF7F" alt="GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Moinuddin01&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=C9D1D9" alt="Most used languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Md-Moinuddin01&hide_border=true&background=0D1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
-
-<br>
-
-</div>
-
-<div align="cemter">
-  <a href="https://www.youtube.com/channel/UCd24bkKWPn8jf7STpb8ZU7g" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/moinuddin6651/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="moin26795@gamil.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/invite/EwJQFs8f" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/md-moinuddin-90912a219/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/https:/x.com/md_moinudd97689" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="t.me/Moinuddin1117" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://www.facebook.com/moinuddin1117" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
----
 
 ```bash
 md-moinuddin01@github:~$ echo $PROFILE_MESSAGE
