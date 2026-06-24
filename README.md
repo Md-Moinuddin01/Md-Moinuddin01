@@ -176,6 +176,6 @@ md-moinuddin01@github:~$ echo $PROFILE_MESSAGE
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=moin%40github%3A~%24+Thanks+for+visiting.;moin%40github%3A~%24+Keep+learning.+Keep+building.;moinuddin%40github%3A~%24+exit" alt="Terminal closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=moinuddi %40github%3A~%24+Thanks+for+visiting.;moinuddin%40github%3A~%24+Keep+learning.+Keep+building.;moinuddin01%40github%3A~%24+exit" alt="Terminal closing message" />
 
 </div>
