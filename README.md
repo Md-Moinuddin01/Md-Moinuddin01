@@ -101,6 +101,9 @@ drwxr-xr-x  AI-Research-Paper-Explainer
 
 [![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/Ajinavaedge.team)
 
+
+[![Open Repository](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/password-generator)
+
 ## `~/tech-stack`
 
 ```bash
