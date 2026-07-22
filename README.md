@@ -108,6 +108,9 @@ drwxr-xr-x  AI-Research-Paper-Explainer
 [![Open Repository Resume-Builer](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/Resume-builder)
 
 
+[![Open Repository Sports](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/sports-)
+
+
 ## `~/tech-stack`
 
 ```bash
