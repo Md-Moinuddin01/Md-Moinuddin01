@@ -198,7 +198,9 @@ md-moinuddin01@github:~$ echo $PROFILE_MESSAGE
 <img src="https://komarev.com/ghpvc/?username=Md-Moinuddin01&label=TERMINAL+VISITORS&color=00FF7F&style=flat-square" alt="Profile visitor count" />
 
 <br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=moinuddi %40github%3A~%24+Thanks+for+visiting.;moinuddin01%40github%3A~%24+Keep+learning.+Keep+building.;moinuddin01%40github%3A~%24+exit" alt="Terminal closing message"/>
+ <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Md+moinuddin01%40github%3A~%24+Thanks+for+visiting.;moinuddin01%40github%3A~%24+Keep+learning.+Keep+building.;moinuddin01%40github%3A~%24+exit"
+    alt="Terminal closing message"
+  />
 
 </div>
