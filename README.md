@@ -89,26 +89,39 @@ drwxr-xr-x  GitHub-Contribution-Simulator
 drwxr-xr-x  SignSpeak_AI
 drwxr-xr-x  AI-Research-Paper-Explainer
 ```
+<p align="center">
+  <a href="https://github.com/Md-Moinuddin01/GitHub-Contribution-Simulator">
+    <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub Contribution Simulator">
+  </a>
 
-[![Open Repository Github -simulator](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/GitHub-Contribution-Simulator)
+  <a href="https://github.com/Md-Moinuddin01/SignSpeak_AI">
+    <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge&logo=github&logoColor=000000" alt="SignSpeak AI">
+  </a>
 
+  <a href="https://github.com/Md-Moinuddin01/AI-Research-Paper-Explainer">
+    <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge&logo=github&logoColor=000000" alt="AI Research Paper Explainer">
+  </a>
+</p>
 
-[![Open Repository SignSpeak AI](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/SignSpeak_AI)
+<p align="center">
+  <a href="https://github.com/Md-Moinuddin01/Ajinavaedge.team">
+    <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge&logo=github&logoColor=000000" alt="Ajinava Edge Team">
+  </a>
 
+  <a href="https://github.com/Md-Moinuddin01/password-generator">
+    <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge&logo=github&logoColor=000000" alt="Password Generator">
+  </a>
 
-[![Open Repository AI-Research-paper-explain](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/AI-Research-Paper-Explainer)
+  <a href="https://github.com/Md-Moinuddin01/Resume-builder">
+    <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge&logo=github&logoColor=000000" alt="Resume Builder">
+  </a>
+</p>
 
-
-[![Open Repository Ajinavaedge team](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/Ajinavaedge.team)
-
-
-[![Open Repository Password-Genrator](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/password-generator)
-
-
-[![Open Repository Resume-Builer](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/Resume-builder)
-
-
-[![Open Repository Sports](https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge\&logo=github\&logoColor=000000)](https://github.com/Md-Moinuddin01/sports-)
+<p align="center">
+  <a href="https://github.com/Md-Moinuddin01/sports-">
+    <img src="https://img.shields.io/badge/OPEN_REPOSITORY-00FF7F?style=for-the-badge&logo=github&logoColor=000000" alt="Sports Project">
+  </a>
+</p>
 
 
 ## `~/tech-stack`
