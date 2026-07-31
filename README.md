@@ -1,13 +1,4 @@
-<div align="center">
-
-<pre>
-███╗   ███╗ ██████╗ ██╗███╗   ██╗██╗   ██╗
-████╗ ████║██╔═══██╗██║████╗  ██║██║   ██║
-██╔████╔██║██║   ██║██║██╔██╗ ██║██║   ██║
-██║╚██╔╝██║██║   ██║██║██║╚██╗██║██║   ██║
-██║ ╚═╝ ██║╚██████╔╝██║██║ ╚████║╚██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝
-</pre>
+<img width="1200" height="420" alt="banner" src="https://github.com/user-attachments/assets/7d7ed97e-0250-4377-85c0-af0b47ca6fd8" /><div align="center">
 
 </div>
 <!-- TERMINAL-STYLE GITHUB PROFILE README -->
@@ -208,6 +199,7 @@ md-moinuddin01@github:~$ echo $PROFILE_MESSAGE
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Md-Moinuddin01&label=TERMINAL+VISITORS&color=00FF7F&style=flat-square" alt="Profile visitor count" />
+
 
 <br><br>
  <img
