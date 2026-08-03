@@ -1,5 +1,3 @@
-<img width="1200" height="420" alt="banner" src="https://github.com/user-attachments/assets/7d7ed97e-0250-4377-85c0-af0b47ca6fd8" /><div align="center">
-
 </div>
 <!-- TERMINAL-STYLE GITHUB PROFILE README -->
 
