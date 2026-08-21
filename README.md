@@ -5,7 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=700&color=00FF7F&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%24+whats+up;%3E+Md+Moinuddin+%7C+AI%2FML+%26+Web3+Builder;%3E+Building+%40+Ajinava+Edge" alt="Terminal introduction" />
 
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/github-Md--Moinuddin01-0D1117?style=for-the-badge\&logo=github\&logoColor=00FF7F)](https://github.com/Md-Moinuddin01)
